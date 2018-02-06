@@ -26,7 +26,7 @@ int main()
 
   } else {
 
-    std::cout << number2 << std::endl;
+    std::cout << number2;
 
   }
 
